@@ -1,2 +1,2 @@
 # Heorhi Kheladze
-zaliczenie
+zaliczenie 1
